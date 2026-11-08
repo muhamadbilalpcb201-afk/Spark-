@@ -1,0 +1,6 @@
+{
+  "name": "Spark",
+  "description": "Spark - Next-gen modern video streaming app with electric blue aesthetics, online video feeds, swipeable shorts, video publisher, playlists and subscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
